@@ -25,7 +25,6 @@ A clean, responsive, and professional Resume/CV webpage built using **HTML**, **
 Resume-CV/
 │── index.html
 │── style.css
-│── script.js
 ```
 
 ## 🚀 How to Run
